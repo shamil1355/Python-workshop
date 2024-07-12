@@ -1,0 +1,6 @@
+a=set('shamil')
+b=set('hisham')
+print(a-b)
+print(a|b)
+print(a&b)
+print(a^b)
